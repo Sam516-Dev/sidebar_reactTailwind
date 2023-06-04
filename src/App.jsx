@@ -12,6 +12,8 @@ const App = () => {
     { title: "Setting", src: "Setting" },
   ];
 
+
+  // this is a comment here
   return (
     <div className="flex">
       <div
